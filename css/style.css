@@ -1,6 +1,37 @@
+/* default rules */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+/* title container */
+
+.container {
+    max-width:60%;
+    margin: 0 auto;
+}
+
+.title-container {
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.title-container h1 {
+    color: #E5316F;
+    font-weight: 900;
+}
+
+.title-container p {
+    margin-top: 20px;
+}
+
+
+
+/* cards container */
